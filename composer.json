@@ -1,0 +1,14 @@
+{
+    "name": "usama165/facebook",
+    "description": "this is a simple laravel package",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "usama165",
+            "email": "usamasheikh833@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
